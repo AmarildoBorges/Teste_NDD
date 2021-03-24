@@ -37,8 +37,8 @@ Ferramentas utilizadas
 
 Executando a aplicação 
 
-* Por limitações do GitHub, foi preciso compactar a pasta, então primeiramente deve-se baixar o arquivo e extrailo.
 ▶️ Dependências:
+Por limitações do GitHub, foi preciso compactar a pasta, então primeiramente deve-se baixar o arquivo Teste_NDD.rar e extrailo.
  
 🔹 Composer/Laravel, Xampp e MySQL Workbench instalados;
  
